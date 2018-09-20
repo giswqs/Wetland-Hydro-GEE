@@ -3,7 +3,7 @@ Mapping wetland hydrological dynamics using Google Earth Engine (GEE)
 
 This repo was created to share the Google Earth Engine source code and results for the following manuscript currently under review at *Remote Sensing of Environment*. 
 
-* **Wu, Q.** , Lane C.R., Li, X., Zhao, K., Zhou, Y., Clinton, N., DeVries, B., Golden, H.E., & Lang, M.W. (2018). Integrating LiDAR data and multi-temporal aerial imagery to map wetland inundation dynamics on Google Earth Engine. *Remote Sensing of Environment*. (under review)
+* **Wu, Q.**, Lane, C.R., Li, X., Zhao, K., Zhou, Y., Clinton, N., DeVries, B., Golden, H.E., & Lang, M.W. (2018). Integrating LiDAR data and multi-temporal aerial imagery to map wetland inundation dynamics on Google Earth Engine. *Remote Sensing of Environment*. (under review)
 
 ## Source Code
 
