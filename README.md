@@ -8,6 +8,8 @@
 
 Author: Qiusheng Wu (https://wetlands.io | wqs@binghamton.edu)
 
+DOI: https://doi.org/10.5281/zenodo.1432883
+
 This repo was created to share the Google Earth Engine source code and results for the following manuscript currently under review at *Remote Sensing of Environment*. 
 
 * **Wu, Q.**, Lane, C.R., Li, X., Zhao, K., Zhou, Y., Clinton, N., DeVries, B., Golden, H.E., & Lang, M.W. (2018). Integrating LiDAR data and multi-temporal aerial imagery to map wetland inundation dynamics on Google Earth Engine. *Remote Sensing of Environment*. (under review)
@@ -28,3 +30,5 @@ Alternatively, you can directly open the application via the link below:
 
 ## Comparison of wetland inundation maps
 ![results](https://wetlands.io/file/images/gee-results.png)
+
+
