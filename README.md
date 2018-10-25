@@ -1,14 +1,11 @@
 # Wetland-Hydro-GEE
 
-[![DOI](https://zenodo.org/badge/145987260.svg)](https://zenodo.org/badge/latestdoi/145987260)
 [![MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
 **Mapping wetland hydrological dynamics using Google Earth Engine (GEE)**
 
 Author: Qiusheng Wu (https://wetlands.io | wqs@binghamton.edu)
-
-DOI: https://doi.org/10.5281/zenodo.1432883
 
 This repo was created to share the Google Earth Engine App for the following manuscript currently under review at *Remote Sensing of Environment*. 
 
