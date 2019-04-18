@@ -9,7 +9,7 @@ Author: Qiusheng Wu (https://wetlands.io | https://lidarblog.com)
 
 This repo was created to share the Google Earth Engine App for the following paper published in the journal *Remote Sensing of Environment*. 
 
-* **Wu, Q.**, Lane, C.R., Li, X., Zhao, K., Zhou, Y., Clinton, N., DeVries, B., Golden, H.E., & Lang, M.W. (2019). Integrating LiDAR data and multi-temporal aerial imagery to map wetland inundation dynamics on Google Earth Engine. *Remote Sensing of Environment*. (accepted)
+* **Wu, Q.**, Lane, C.R., Li, X., Zhao, K., Zhou, Y., Clinton, N., DeVries, B., Golden, H.E., & Lang, M.W. (2019). Integrating LiDAR data and multi-temporal aerial imagery to map wetland inundation dynamics on Google Earth Engine. *Remote Sensing of Environment*. 228: 1-13. DOI: [10.1016/j.rse.2019.04.015](https://doi.org/10.1016/j.rse.2019.04.015)
 
 ## Google Earth Engine Apps
 
